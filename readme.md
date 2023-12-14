@@ -12,6 +12,8 @@ This course, "Leveraging Data in Iterative Product Design," is part of the three
 
 This project provides a comprehensive understanding of how data can be leveraged to optimize product design and enhance user engagement.  
 
+Note: Plotly charts are not visible in GitHub; however, they are fully displayed in the PDF report provided.
+
 ### Files  
 
 - `\data\Flyber User Interviews.csv`: This dataset contains user interviews conducted as part of the project.  
@@ -22,7 +24,7 @@ This project provides a comprehensive understanding of how data can be leveraged
 ### Dependencies  
 
 - Python 3.11
-- Main Python Packages:- 
+- Main Python Packages:  
     - Pandas
     - NumPy
     - Plotly

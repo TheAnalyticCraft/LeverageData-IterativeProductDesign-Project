@@ -21,6 +21,10 @@ Note: Plotly charts are not visible in GitHub; however, they are fully displayed
 - `flyber_analysis.ipynb`: This Jupyter Notebook contains the code for data analysis.  
 - `IterativeDesign-Project.pdf`: This PDF document provides a comprehensive summary of the project's findings and recommendations. 
 
+### Clone repository
+
+`git clone https://github.com/TheAnalyticCraft/LeverageData-IterativeProductDesign-Project`
+
 ### Dependencies  
 
 - Python 3.11

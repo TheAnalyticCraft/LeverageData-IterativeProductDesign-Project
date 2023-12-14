@@ -23,7 +23,9 @@ Note: Plotly charts are not visible in GitHub; however, they are fully displayed
 
 ### Clone repository
 
-`git clone https://github.com/TheAnalyticCraft/LeverageData-IterativeProductDesign-Project`
+```
+git clone https://github.com/TheAnalyticCraft/LeverageData-IterativeProductDesign-Project.git
+```
 
 ### Dependencies  
 

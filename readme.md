@@ -37,6 +37,6 @@ git clone https://github.com/TheAnalyticCraft/LeverageData-IterativeProductDesig
     - Statsmodels
 
 
-### Acknowledgements  
+### Acknowledgement
 
 - Udacity for offering Leveraging Data in Iterative Product Design.
